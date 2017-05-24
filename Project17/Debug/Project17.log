@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\user\documents\visual studio 2015\projects\project17\project17\source.cpp(23): warning C4244: '正在初始化': 將 'time_t' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  Project17.vcxproj -> C:\Users\user\documents\visual studio 2015\Projects\Project17\Debug\Project17.exe
+  Project17.vcxproj -> C:\Users\user\documents\visual studio 2015\Projects\Project17\Debug\Project17.pdb (Partial PDB)
